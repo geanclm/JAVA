@@ -33,15 +33,3 @@ Starting Github on ubuntu 15:10
 Luck, health and success!
 :-)
 Gean
-I created the account in order to learn more about version control and also some algorithms.
-
-The primo.java file is the prime test with the variable of type "long".
-But is a limit to this value between -9,223,372,036,854,775,808 and
-9223372036854775808
-
-The determinante.java file makes the calculation of the determinant of the matrix in any order.
-
-
-Luck, health and success!
-:-)
-Gean
