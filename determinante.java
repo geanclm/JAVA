@@ -2,8 +2,8 @@
  	18 de setembro de 2006
 	by gean carlos
 	segunda fase ciencia da computacao	
-	11-12-2006 - alguns ajustes		*/
-// iniciando como GitHub em 03/04/2016	
+	11-12-2006 - alguns ajustes		*/	
+// GitHub em 03/04/2016
 import javax.swing.*;
 public class determinante{
 	public static void main(String[] a){	// programa principal  	

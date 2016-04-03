@@ -3,7 +3,7 @@
 // 12-12-2006
 // melhoramentos e novos estudos do codigo: 21/02/2016
 // apt-get install openjdk-8-jdk
-// iniciando com o gitHub em 03/04/16
+// GitHub em 03/04/2016
 import javax.swing.*;
 class primo {
 	public static void main (String args []){
